@@ -58,3 +58,45 @@ AI Assistant telah membaca dan menganalisis dokumen-dokumen berikut dari folder 
     - `panduan_rundown.md`: Untuk menyusun jadwal acara yang sangat terperinci.
     - `panduan_tor_konsep_acara.md`: Untuk merumuskan ide dan tujuan fundamental dari sebuah acara.
 - **Status:** Fase pembuatan panduan spesifik telah benar-benar selesai.
+
+## 7. Pengembangan Toolkit Strategis dan Riset Kemitraan
+
+- **Perubahan Fokus:** Atas arahan USER, fokus proyek diperluas dari sekadar panduan dokumen menjadi sebuah **"Workspace" atau "Toolkit"** yang komprehensif untuk mendukung semua aspek perencanaan acara.
+- **Pembuatan Aset Strategis:** Untuk mendukung fokus baru, AI Assistant membuat direktori baru (`kerangka_kerja/strategi_dan_kreatif/`) dan mengisinya dengan panduan dan template berikut:
+    - `panduan_brainstorming_kreatif.md`: Untuk memandu diskusi mengenai tema, branding, dan identitas visual acara.
+    - `panduan_strategi_kemitraan.md`: Kerangka kerja untuk merencanakan pendekatan sponsorship dan media partnership.
+    - `template_database_sponsor.md`: Template untuk melacak calon sponsor.
+    - `template_database_media_partner.md`: Template untuk melacak calon media partner.
+- **Riset dan Pengisian Konten:** AI Assistant melakukan riset untuk mengumpulkan data awal sponsor dan media partner.
+- **Hasil:**
+    - Berhasil mengidentifikasi **27 calon sponsor** potensial, terdiri dari perusahaan besar dan startup yang sedang berkembang.
+    - Berhasil mengidentifikasi **13 calon media partner** potensial yang menawarkan kerjasama gratis dengan syarat tertentu.
+    - Semua data hasil riset telah dimasukkan ke dalam file template database masing-masing.
+- **Status:** Fase riset dan pengisian konten awal telah selesai. Workspace kini memiliki fondasi data yang kuat untuk kemitraan.
+
+## 7. Pengembangan Toolkit Strategis dan Pengisian Konten
+
+- **Instruksi USER:** Mengarahkan fokus dari pembuatan panduan dokumen ke pengembangan "Workspace" atau "Toolkit" yang lebih komprehensif, mencakup aspek strategis dan kreatif.
+- **Tindakan AI:**
+    1.  Membuat direktori baru: `kerangka_kerja/strategi_dan_kreatif/`.
+    2.  Membuat panduan baru untuk `panduan_brainstorming_kreatif.md` dan `panduan_strategi_kemitraan.md`.
+    3.  Membuat template untuk `template_database_sponsor.md` dan `template_database_media_partner.md`.
+- **Riset Konten Awal:**
+    - Melakukan riset online untuk mengidentifikasi calon sponsor dan media partner potensial.
+    - Berhasil mengumpulkan 27 nama calon sponsor (kombinasi perusahaan besar dan startup) dan 13 nama calon media partner (fokus pada penawaran gratis untuk event mahasiswa).
+- **Pengisian Database:**
+    - Mengisi `template_database_sponsor.md` dengan 27 calon sponsor.
+    - Mengisi `template_database_media_partner.md` dengan 13 calon media partner.
+- **Status:** Fase pengembangan toolkit strategis dan pengisian konten awal telah selesai. Workspace kini memiliki fondasi data untuk kegiatan kemitraan.
+
+## 8. Riset dan Perluasan Database Media Partner
+
+- **Instruksi USER:** Meminta untuk memperkaya database media partner dengan akun-akun Instagram yang relevan dengan dunia IT dan teknologi, dengan syarat memiliki lebih dari 50.000 pengikut.
+- **Tindakan AI:**
+    1.  Melakukan riset online menggunakan beberapa kata kunci dan sumber yang relevan.
+    2.  Mengidentifikasi beberapa kandidat kuat seperti `@techinasia_id`, `@dicoding`, `@info.lomba`, dan beberapa akun agregator event lainnya.
+    3.  Melakukan verifikasi jumlah pengikut dan relevansi konten untuk setiap kandidat.
+    4.  Menambahkan 7 media partner baru yang memenuhi kriteria ke dalam `template_database_media_partner.md`.
+    5.  Melakukan pembersihan data untuk menghilangkan entri duplikat dan memastikan konsistensi.
+- **Hasil:** Database media partner berhasil diperluas secara signifikan dengan akun-akun berkualitas tinggi dan relevan, meningkatkan potensi jangkauan promosi acara.
+- **Status:** Tugas penambahan media partner telah selesai. Proyek siap melanjutkan ke fase konsolidasi.
