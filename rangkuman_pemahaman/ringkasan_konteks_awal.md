@@ -47,11 +47,25 @@ Terdapat dua program kerja yang berbeda namun saling berkaitan:
 
 AI Assistant telah memiliki pemahaman yang kuat dan komprehensif mengenai alur kerja, standar, dan konteks acara di lingkungan Himafortic. Semua informasi yang terkumpul dari dokumen referensi siap digunakan sebagai dasar untuk menyusun dokumen-dokumen baru sesuai dengan kebutuhan USER.
 
-## 5. Alur Kerja Perencanaan Acara (Workflow)
+## 5. Alur Kerja Perencanaan Acara (Workflow yang Diperbarui)
 
-Berdasarkan arahan USER, alur kerja baru untuk merencanakan program kerja telah ditetapkan:
+Berdasarkan arahan dan koreksi dari USER, alur kerja telah disempurnakan menjadi lebih spesifik dan efisien:
 
-1.  **Diskusi Terpandu:** Proses perencanaan akan diawali dengan sesi diskusi yang dipandu oleh kerangka pertanyaan dalam file `kerangka_kerja/pertanyaan_panduan_konsep_acara.md`.
-2.  **Pengumpulan Informasi Sistematis:** Kerangka kerja ini memastikan semua aspek krusial—mulai dari Visi, Latar Belakang, Tujuan, Manfaat, Logistik, Anggaran, hingga Analisis Risiko—dibahas secara mendalam dan sistematis.
-3.  **Dasar Pembuatan Dokumen:** Jawaban dan data yang terkumpul dari sesi diskusi ini akan menjadi satu-satunya sumber kebenaran (*single source of truth*) bagi AI Assistant untuk menyusun draf awal semua dokumen acara yang diperlukan (misalnya, Proposal Acara, Term of Reference, Proposal Sponsor).
-4.  **Tujuan Alur Kerja:** Pendekatan ini bertujuan untuk meminimalkan asumsi, mempercepat proses penyusunan dokumen, dan memastikan bahwa draf awal yang dihasilkan sangat selaras dengan visi dan kebutuhan tim sejak awal.
+1.  **Strategi Inti:** Beralih dari satu kerangka kerja umum ke **kumpulan panduan pertanyaan yang sangat spesifik untuk setiap jenis dokumen**.
+2.  **Diskusi Terfokus:** Sebelum menyusun dokumen tertentu (misal, Proposal Sponsor), diskusi akan dipandu oleh panduan yang relevan (contoh: `panduan_proposal_sponsor.md`).
+3.  **Tujuan Alur Kerja:** Pendekatan ini bertujuan untuk memaksimalkan efisiensi rapat, memastikan tidak ada detail krusial yang terlewat, dan menghasilkan draf dokumen yang 90% mendekati final, sehingga proses revisi menjadi sangat cepat.
+
+## 6. Aset Kerangka Kerja yang Dihasilkan
+
+Sebagai hasil dari fase penataan, serangkaian panduan diskusi terpandu telah berhasil dibuat dan disimpan di direktori `kerangka_kerja/dokumen_spesifik/`. Aset-aset ini siap digunakan untuk memfasilitasi perencanaan acara:
+
+- **Proposal Acara:** `panduan_proposal_acara.md`
+- **Term of Reference (ToR) Pemateri:** `panduan_tor_pemateri.md`
+- **Laporan Pertanggungjawaban (LPJ):** `panduan_lpj_acara.md`
+- **Proposal Sponsor:** `panduan_proposal_sponsor.md`
+- **Term of Reference (ToR) Juri:** `panduan_tor_juri.md`
+- **Guidebook Peserta:** `panduan_guidebook_acara.md`
+- **Tata Tertib Acara:** `panduan_tata_tertib.md`
+- **Surat Perjanjian Kerjasama (SPK):** `panduan_spk.md`
+- **Rundown Detail Acara:** `panduan_rundown.md`
+- **Term of Reference (ToR) Konsep Acara:** `panduan_tor_konsep_acara.md`

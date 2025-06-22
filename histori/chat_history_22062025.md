@@ -45,3 +45,16 @@ AI Assistant telah membaca dan menganalisis dokumen-dokumen berikut dari folder 
 - **Tujuan:** Jawaban dari diskusi yang dipandu oleh kerangka ini akan menjadi dasar bagi AI Assistant untuk menyusun dokumen-dokumen terkait yang dibutuhkan (proposal, ToR, dll.).
 - **Eksekusi:** AI Assistant menyiapkan konten untuk file `kerangka_kerja/pertanyaan_panduan_konsep_acara.md` dan USER membuat file tersebut.
 - **Koreksi Alur Kerja:** USER mengingatkan untuk selalu mencatat histori chat dan memperbarui rangkuman pemahaman setelah setiap interaksi signifikan. AI Assistant mengkonfirmasi dan akan menerapkan alur kerja ini ke depannya.
+
+## 6. Pembuatan Panduan Spesifik Lanjutan
+
+- **Instruksi USER:** USER memberikan koreksi bahwa fase pembuatan panduan belum selesai dan masih banyak dokumen referensi yang perlu dibuatkan panduan spesifiknya.
+- **Tindakan AI:** AI Assistant mengakui kelalaian, memeriksa kembali direktori `dokumen_contoh_referensi`, dan membuat panduan-panduan spesifik yang tersisa.
+- **Hasil:** Berhasil membuat 6 panduan pertanyaan baru di dalam `kerangka_kerja/dokumen_spesifik/`:
+    - `panduan_tor_juri.md`: Untuk menyusun ToR bagi juri kompetisi.
+    - `panduan_guidebook_acara.md`: Untuk menyusun buku panduan lengkap bagi peserta.
+    - `panduan_tata_tertib.md`: Untuk merumuskan aturan selama acara berlangsung.
+    - `panduan_spk.md`: Untuk menyusun Surat Perjanjian Kerjasama dengan pihak eksternal.
+    - `panduan_rundown.md`: Untuk menyusun jadwal acara yang sangat terperinci.
+    - `panduan_tor_konsep_acara.md`: Untuk merumuskan ide dan tujuan fundamental dari sebuah acara.
+- **Status:** Fase pembuatan panduan spesifik telah benar-benar selesai.
